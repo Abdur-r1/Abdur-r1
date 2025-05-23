@@ -59,9 +59,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
  
  <p align="left">
-<a href="https://github.com/m0hit-kumar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0hit-kumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0hit-kumar&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/abdur-r1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdur-r1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdur-r1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
