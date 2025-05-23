@@ -6,8 +6,9 @@
 </p>
 
 <p align="left">
-  <img src="https://YOUR_PROFILE_VIEW_COUNTER_LINK_HERE" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdur-r1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 - 🔭 I’m studying Computer Science and Engineering at **International Islamic University Chittagong**  
 - 🌱 Currently expanding my skill set with **cloud deployment (AWS, Heroku)** and **asynchronous Python (Celery, asyncio)**  
@@ -16,21 +17,22 @@
 ---
 
 ### 🌐 Connect with me:
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/md-abdur-rahaman-bb76b9263" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.kaggle.com/abdurrahaman1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="30" width="40" style="filter: invert(0.5);"/>
   </a>
   <a href="https://www.facebook.com/md.abdurrahaman.208247" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="40" style="filter: invert(0.5);"/>
   </a>
   <a href="https://codeforces.com/profile/abdurrahaman01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" alt="Codeforces" height="30" width="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/abdur-r1/assets/main/codeforces.png" alt="Codeforces" height="30" width="40"/>
+</a>
   <a href="https://leetcode.com/rahaman1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
   </a>
 </p>
 
