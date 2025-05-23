@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahaman</h1>
 <h3 align="center">I’m a passionate Python Web Developer with experience in building scalable, secure, and user-friendly web applications</h3>
 
-<img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="300" hight ="250 " />
+<img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="250" hight ="250 " />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdur-r1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
