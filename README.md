@@ -1,30 +1,73 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahaman</h1>
 <h3 align="center">I’m a passionate Python Web Developer with experience in building scalable, secure, and user-friendly web applications</h3>
 
-<img align="right" alt="Coder GIF"  width=450 src="https://i...content-available-to-author-only...s.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" />
-
-<p align="left"> <img src="https://k...content-available-to-author-only...v.com/ghpvc/?username=abdur-r1&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-r1" /> </p>
-
-- 🔭 I’m studying Computer Science and Engineering **in International Islamic University Chittagong**
-
-- 🌱 Currently expanding my skill set with **cloud deployment (AWS, Heroku) and asynchronous Python (Celery, asyncio).**
-
-- 📫 How to reach me **mabdurrahaman7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://l...content-available-to-author-only...n.com/in/md-abdur-rahaman-bb76b9263" target="blank"><img align="center" src="https://r...content-available-to-author-only...t.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur-rahaman-bb76b9263" height="30" width="40" /></a>
-<a href="https://k...content-available-to-author-only...e.com/abdurrahaman1" target="blank"><img align="center" src="https://r...content-available-to-author-only...t.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdurrahaman1" height="30" width="40" /></a>
-<a href="https://content-available-to-author-only.com/md.abdurrahaman.208247" target="blank"><img align="center" src="https://r...content-available-to-author-only...t.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abdurrahaman.208247" height="30" width="40" /></a>
-<a href="https://c...content-available-to-author-only...s.com/profile/abdurrahaman01" target="blank"><img align="center" src="https://r...content-available-to-author-only...t.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdurrahaman01" height="30" width="40" /></a>
-<a href="https://w...content-available-to-author-only...e.com/rahaman1" target="blank"><img align="center" src="https://r...content-available-to-author-only...t.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahaman1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i...content-available-to-author-only...s.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://w...content-available-to-author-only...g.com/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...s.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...s.com/css/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...t.com/" target="_blank" rel="noreferrer"> <img src="https://c...content-available-to-author-only...o.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://g...content-available-to-author-only...m.com/" target="_blank" rel="noreferrer"> <img src="https://w...content-available-to-author-only...o.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...3.org/html/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://d...content-available-to-author-only...a.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...s.com/" target="_blank" rel="noreferrer"> <img src="https://u...content-available-to-author-only...a.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...b.com/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...l.com/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...e.com/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://p...content-available-to-author-only...a.org/" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://w...content-available-to-author-only...n.org" target="_blank" rel="noreferrer"> <img src="https://r...content-available-to-author-only...t.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://s...content-available-to-author-only...n.org/" target="_blank" rel="noreferrer"> <img src="https://u...content-available-to-author-only...a.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://s...content-available-to-author-only...a.org/" target="_blank" rel="noreferrer"> <img src="https://s...content-available-to-author-only...a.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://YOUR_PROFILE_VIEW_COUNTER_LINK_HERE" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://g...content-available-to-author-only...l.app/api/top-langs?username=abdur-r1&show_icons=true&locale=en&layout=compact" alt="abdur-r1" /></p>
+- 🔭 I’m studying Computer Science and Engineering at **International Islamic University Chittagong**  
+- 🌱 Currently expanding my skill set with **cloud deployment (AWS, Heroku)** and **asynchronous Python (Celery, asyncio)**  
+- 📫 Reach me at: **mabdurrahaman7@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://g...content-available-to-author-only...l.app/api?username=abdur-r1&show_icons=true&locale=en" alt="abdur-r1" /></p>
+---
 
-<p><img align="center" src="https://g...content-available-to-author-only...p.com/?user=abdur-r1&" alt="abdur-r1" /></p>
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-abdur-rahaman-bb76b9263" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.kaggle.com/abdurrahaman1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/md.abdurrahaman.208247" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/abdurrahaman01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" alt="Codeforces" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/rahaman1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdur-r1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdur-r1&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- Optional: GitHub streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-r1" alt="GitHub Streak" />
+</p>
