@@ -29,8 +29,9 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="40" style="filter: invert(0.5);"/>
   </a>
   <a href="https://codeforces.com/profile/abdurrahaman01" target="_blank">
-  <img src="https://raw.githubusercontent.com/abdur-r1/assets/main/codeforces.png" alt="Codeforces" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/codeforces.png" alt="Codeforces" height="30" width="40"/>
 </a>
+
   <a href="https://leetcode.com/rahaman1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
   </a>
