@@ -21,16 +21,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.kaggle.com/abdurrahaman1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="30" width="40" style="filter: invert(0.5);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40"/>
   </a>
   <a href="https://www.facebook.com/md.abdurrahaman.208247" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="40" style="filter: invert(0.5);"/>
   </a>
-  
+ 
 
   <a href="https://leetcode.com/rahaman1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
   </a>
+   
+  <a href="https://codeforces.com/profile/abdurrahaman01" target="_blank">
+  <img src="https://sta.codeforces.com/s/85522/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30" />
+</a>
+
 </p>
 
 ---
