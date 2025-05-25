@@ -1,4 +1,4 @@
-![logo](https://github.com/ShahariarNafizz/ShahariarNafizz/blob/main/me.png)
+https://www.canva.com/design/DAGoeepncdY/wAKFbtTpL7Oz1EK9lhXE7A/edit?utm_content=DAGoeepncdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <h1 align="center">Hi 👋, I'm Abdur Rahaman</h1>
 <h3 align="center">I’m a passionate Python Web Developer with experience in building scalable, secure, and user-friendly web applications</h3>
 
